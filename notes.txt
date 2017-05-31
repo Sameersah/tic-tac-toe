@@ -1,0 +1,55 @@
+JAVASCRIPT can change html content.  document.getElementById("").innerHTML="";
+JAVASCRPT can chagne html attributes. document.getElementById("").src="";
+JAVASCRIPT can change html style.      document.getElementById("").style.= "";
+
+<script type="text/javascript"> type attribute is not required as javascript is now the default script.
+
+javascript function is a block of javascript code, that can be executed when called for by an event.
+
+external js: include  <script>scriptName.js</script>
+
+Displaying data using javascript: 1> inner html 2> document.write() 3> console.log()
+
+js syntax
+
+js is a programming language.
+
+data types -var 
+comments- same as java
+identifiers- same as java
+lowerCamelCasing is used
+
+line breaks can be done after an operator
+ou can also break up a code line within a text string with a single backslash
+
+the typeof operator can return one of these primitive types:
+
+string
+number
+boolean
+null
+undefined
+
+In JavaScript, a variable without a value, has the value undefined. The typeof is also undefined.
+typeof [1,2,3,4]             // Returns "object" (not "array", see note below)
+typeof {name:'John', age:34} // Returns "object"
+
+javascript string functions
+stringVariable.search(string)
+.slice(startindex,endindex)
+.substr(index,length)
+.replace(string1,string2)
+.toUpperCase()
+.toLowerCase()
+stringVariabe.concat(string)
+.split()
+
+Regular expression
+/re/
+
+JSON
+var obj = JSON.parse(text);
+
+
+
+js functions- pass by reference- real values passed

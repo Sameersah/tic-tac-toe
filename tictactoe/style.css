@@ -1,0 +1,19 @@
+body{
+background-color:#d7cec7 ;
+}
+table, th, td {
+   margin:auto;
+   border: 2px solid black;
+   padding: 80px;
+    text-align: left;
+	cursor:pointer;
+	box-shadow: 1px 1px ;
+}
+table{
+ box-shadow: 10px 10px 5px black ;
+ background-color:#c09f80;
+}
+
+tr{
+background-color:#d7cec7 ;
+}
