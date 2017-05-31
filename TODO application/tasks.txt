@@ -1,3 +1,0 @@
-req,design,imple,test,maintainace
-taske adding 
-check mark
